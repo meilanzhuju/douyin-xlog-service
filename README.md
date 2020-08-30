@@ -1,5 +1,4 @@
-device register,login,video upload and other api
+这里啥也没有，瞎写的。
 
-收费项目，支持高并发，完整的直播pb2json消息协议。
-
+#### device register,login,video upload,live im pb2json and other api
 #### contact with me: kkbbcc@foxmail.com
